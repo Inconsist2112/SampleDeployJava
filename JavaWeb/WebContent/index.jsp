@@ -7,7 +7,7 @@
 <title>JavaWeb</title>
 </head>
 <body>
-	<h3>Hello This is Java Wep App</h3>
+	<h3>Hello This is Java Wep App for demo purpose</h3>
 	<form action=${pageContext.request.contextPath}/hello method="get">
 		<h2>Please enter your name</h2>
 		Name : <input type="text" name="uname"></input> 
